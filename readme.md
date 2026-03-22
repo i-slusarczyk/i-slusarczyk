@@ -1,6 +1,6 @@
 # Hi, I'm Igor 👋
 
-I am a Data-driven Social Informatics student at AGH University of Science and Technology, focusing on data engineering, spatial analytics, and data visualization. 
+I am a Data-driven Social Informatics student at AGH University of Science and Technology, focusing on data analytics, geospatial analysis, and data visualization. 
 
 ### 🛠️ Tech Stack
 * **Languages & Databases:** Python, SQL
