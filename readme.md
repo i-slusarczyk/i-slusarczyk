@@ -5,7 +5,7 @@ I am a Data-driven Social Informatics student at AGH University of Science and T
 ### 🛠️ Tech Stack
 * **Languages & Databases:** Python, SQL
 * **Data Processing & Analytics:** Pandas, NumPy, GeoPandas, H3
-* **Visualization:** Streamlit, Seaborn, Matplotlib, Excel (Basics)
+* **Visualization:** Streamlit, Seaborn, Matplotlib, Excel, Power BI
 
 ---
 
